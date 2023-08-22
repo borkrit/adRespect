@@ -1,0 +1,31 @@
+.swiper{
+    background: #DCC1AB;
+}
+
+.about{
+    background: #1B5B31;
+    color:#F5F0EC
+}
+.instagram-text{
+    background: #1B5B31;
+}
+.slider-btn{
+    margin-top: 72px;
+}
+.slider-btn a:last-child{
+    border: 1px solid #1B5B31;
+    color: #1B5B31;
+}
+
+.gallery{
+    background: #DCC1AB;
+}
+
+
+.gallery-title{
+    padding-top: 120px;
+}
+
+.overlay{
+    background: linear-gradient(360deg, #DCC1AB 0%, rgba(214, 183, 158, 0.00) 100%);
+}
